@@ -14,5 +14,5 @@ The next iteration of the dummy tax calculator is similar to the first iteration
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/72291395/226696104-b42dc262-9774-4ea4-8caf-2a74e533b8a9.png">  
 
 Project 6 is the most recent iteration of the dummy tax calculator, this project demonstrates taking a text file as input and creating multiple text files as an output using a while loop. This project uses additional header files as well as a the Arizona_Tax_Utility.h and Arizona_Tax_Utility.c which I personally created which is used to calculate tax amounts. The screenshot shows the program running, the files created are circled in red, and at the bottom there are lines showing what the output files contain.  
-The sample output is shown below:  
+The sample output is shown below, which takes Tax_Info.txt as its input file:  
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/72291395/226699211-835cb3f0-0109-49a4-b743-2e4f8188f1ff.png">  
